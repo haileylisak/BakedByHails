@@ -2,12 +2,35 @@
     position: relative;
     height: 350px;
     left: 1150px;
-    bottom: 350px;
+    bottom: 330px;
 }
-
 .image-skiSlope{
     position: relative;
     height:300px;
     top: 20px;
-    left:10px;
+    left:40px;
+}
+.image-pittCakesicle{
+    position: relative;
+    height: 300px;
+    top:20px;
+    left: 60px;
+}
+.image-summerCookies{
+    position: relative;
+    height: 300px;
+    top:20px;
+    left:80px;
+}
+.image-snoopyCake{
+    position: relative;
+    height: 300px;
+    top:20px;
+    left:100px;
+}
+.image-thanksgivingCookies{
+    position: relative;
+    height: 300px;
+    top: 20px;
+    left: 120px;
 }

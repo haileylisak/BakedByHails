@@ -11,3 +11,13 @@
     top: 20px;
     left:10px;
 }
+
+.about-container{
+    
+        overflow-wrap: break-word;
+        word-wrap: break-word; /* For legacy browser support */
+        word-break: break-word; /* For Safari and other WebKit-based browsers */
+        -webkit-hyphens: auto; /* Adds hyphens to break words cleanly */
+        -ms-hyphens: auto; /* For Microsoft browsers */
+        hyphens: auto;
+}
